@@ -1,4 +1,4 @@
 meteor_blog
 ===========
 
-A blog created with [Meteor.js](http://meteor.com)
+A blog built with [Meteor.js](http://meteor.com)
